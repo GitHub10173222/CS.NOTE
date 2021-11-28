@@ -1,1 +1,1 @@
-# CS.NOTE
+font-size: 16px
